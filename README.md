@@ -59,7 +59,6 @@ You can use almost every Mii format with this script:
 ## Credits
 
 * bendevnull for his support.
-* HEYimHeroic for helping in many ways, without her help we wouldn't have this tool.
 * jaames for the [Mii QR decrypting script](https://gist.github.com/jaames/96ce8daa11b61b758b6b0227b55f9f78).
 * Larsenv for writing this script.
 * Matthe815 for figuring out the obfuscation used for the Mii Studio renderer.
